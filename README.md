@@ -57,7 +57,7 @@ const devBaor = {
 ### 🏠 [Graduation Thesis - Hệ Thống Quản Lý Nhà Trọ](https://github.com/DevBaor/Graduation-Thesis)
 Hệ sinh thái toàn diện quản lý nhà trọ hiện đại với Backend API Laravel, AI Engine, Frontend Web, và Mobile App.
 - **Tech**: Laravel, PHP, Python, Flutter, MySQL
-- **Features**: Quản lý phòng, cư dân, tài chính, AI predictions
+- **Features**: Quản lý phòng, Khách, tài chính, AI predictions
 - **Status**: ✅ Hoàn thành
 
 ### 🏥 [Dental Clinic Management](https://github.com/DevBaor/Dental-clinic-management)
