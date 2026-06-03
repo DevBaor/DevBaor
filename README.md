@@ -1,4 +1,4 @@
-# Xin Chào! Tôi là Duy Bảo
+#Xin Chào! Tôi là Duy Bảo
 
 > **Full Stack Developer | AI Enthusiast | Problem Solver**
 
