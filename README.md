@@ -1,4 +1,4 @@
-#Xin Chào! Tôi là Duy Bảo
+# Xin Chào! Tôi là Duy Bảo
 
 > **Full Stack Developer | AI Enthusiast | Problem Solver**
 
@@ -95,10 +95,10 @@ Dự án thực hành MongoDB - Hệ thống quản lý bảo hành sản phẩm
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![DevBaor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevBaor&theme=merko&show_icons=true&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBaor&layout=compact&theme=merko&hide_border=true)](https://github.com/DevBaor)
+[![GitHub Followers](https://img.shields.io/github/followers/DevBaor?label=Followers&style=for-the-badge&logo=github)](https://github.com/DevBaor)
+[![GitHub Stars](https://img.shields.io/github/stars/DevBaor?label=Stars&style=for-the-badge&logo=github)](https://github.com/DevBaor?tab=stars)
+[![GitHub Repos](https://img.shields.io/github/repo-count/DevBaor?label=Repos&style=for-the-badge&logo=github)](https://github.com/DevBaor?tab=repositories)
 
 </div>
 
