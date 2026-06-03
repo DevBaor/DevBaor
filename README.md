@@ -92,13 +92,12 @@ Dự án thực hành MongoDB - Hệ thống quản lý bảo hành sản phẩm
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Profile
 
 <div align="center">
 
-[![GitHub Followers](https://img.shields.io/github/followers/DevBaor?label=Followers&style=for-the-badge&logo=github)](https://github.com/DevBaor)
-[![GitHub Stars](https://img.shields.io/github/stars/DevBaor?label=Stars&style=for-the-badge&logo=github)](https://github.com/DevBaor?tab=stars)
-[![GitHub Repos](https://img.shields.io/github/repo-count/DevBaor?label=Repos&style=for-the-badge&logo=github)](https://github.com/DevBaor?tab=repositories)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-DevBaor-181717?style=for-the-badge&logo=github)](https://github.com/DevBaor)
+[![GitHub Profile Status](https://img.shields.io/badge/Profile-Active-brightgreen?style=for-the-badge)](https://github.com/DevBaor)
 
 </div>
 
