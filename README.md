@@ -13,7 +13,7 @@ const devBaor = {
   name: "Duy Bảo",
   role: "Full Stack Developer",
   location: "Vietnam 🇻🇳",
-  education: "Graduation Thesis 2022-2025",
+  education: "Graduation Thesis 2022-2026",
   interests: ["Web Development", "Mobile Apps", "AI/ML", "System Design"],
   philosophy: "Code that's clean, scalable, and makes a difference 🚀"
 }
