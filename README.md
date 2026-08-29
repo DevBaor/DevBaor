@@ -1,12 +1,12 @@
-# Xin Chào! Tôi là Duy Bảo
+# Hi! I'm Duy Bảo
 
 > **Full Stack Developer | AI Enthusiast | Problem Solver**
 
-Mình là một Full Stack Developer có passion với phát triển ứng dụng web, mobile và AI. Luôn tìm kiếm cơ hội để học hỏi, cải thiện kỹ năng và xây dựng những sản phẩm có ích cho cộng đồng.
+I'm a Full Stack Developer with a passion for building web, mobile, and AI applications. I'm constantly looking for opportunities to learn, improve my skills, and build products that bring value to the community.
 
 ---
 
-## 💼 Về Tôi
+## 💼 About Me
 
 ```javascript
 const devBaor = {
@@ -21,7 +21,7 @@ const devBaor = {
 
 ---
 
-## 🛠️ Công Nghệ & Kỹ Năng
+## 🛠️ Technologies & Skills
 
 ### Backend Development
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -52,43 +52,43 @@ const devBaor = {
 
 ---
 
-## 📌 Dự Án Nổi Bật
+## 📌 Featured Projects
 
-### 🏠 [Graduation Thesis - Hệ Thống Quản Lý Nhà Trọ](https://github.com/DevBaor/Graduation-Thesis)
-Hệ sinh thái toàn diện quản lý nhà trọ hiện đại với Backend API Laravel, AI Engine, Frontend Web, và Mobile App.
+### 🏠 [Graduation Thesis - Boarding House Management System](https://github.com/DevBaor/Graduation-Thesis)
+A comprehensive ecosystem for modern boarding house management with a Laravel Backend API, AI Engine, Web Frontend, and Mobile App.
 - **Tech**: Laravel, PHP, Python, Flutter, MySQL
-- **Features**: Quản lý phòng, Khách, tài chính, AI predictions
-- **Status**: ✅ Hoàn thành
+- **Features**: Room management, tenants, finances, AI predictions
+- **Status**: ✅ Completed
 
 ### 🏥 [Dental Clinic Management](https://github.com/DevBaor/Dental-clinic-management)
-Hệ thống quản lý phòng khám nha khoa desktop với giao diện Windows Forms.
+Desktop dental clinic management system with a Windows Forms interface.
 - **Tech**: C#, SQL Server, Windows Forms
-- **Features**: Quản lý bệnh nhân, lịch hẹn, dịch vụ, thanh toán
-- **Status**: ✅ Hoàn thành
+- **Features**: Patient management, appointments, services, billing
+- **Status**: ✅ Completed
 
 ### 🎮 [Bao-Manifest](https://github.com/DevBaor/Bao-Manifest)
-Công cụ quản lý thư viện Steam Manifest mạnh mẽ, siêu nhẹ và hiện đại.
+A powerful, ultra-lightweight, and modern Steam Manifest library management tool.
 - **Tech**: JavaScript, HTML, TailwindCSS, Electron, Cloudflare Workers
-- **Features**: Trích xuất Denuvo Tickets tự động, API Proxy ẩn danh, đồng bộ thư mục Depotcache, quản lý tải Cloud Redirect.
-- **Status**: ✅ Hoàn thành
+- **Features**: Auto Denuvo Ticket extraction, API Proxy, Depotcache syncing, Cloud Redirect manager.
+- **Status**: ✅ Completed
 
 ### 💰 [Expense Management App](https://github.com/DevBaor/Expense-Management-App)
-Ứng dụng mobile quản lý chi tiêu cá nhân (Cross-platform).
+Cross-platform mobile application for personal expense management.
 - **Tech**: Flutter, Dart, Firebase, Python
-- **Features**: Theo dõi chi tiêu, thống kê, báo cáo tài chính
-- **Status**: ✅ Hoàn thành
+- **Features**: Expense tracking, statistics, financial reporting
+- **Status**: ✅ Completed
 
 ### 🎮 [Hachimi Launcher](https://github.com/DevBaor/Hachimi_Launcher)
-Desktop game launcher với tích hợp Steam, GOG, và AI recommendations.
+Desktop game launcher with Steam/GOG integration and AI recommendations.
 - **Tech**: TypeScript, Electron, React, Python
-- **Features**: Quản lý thư viện game, cloud save sync, achievements tracking
-- **Status**: ✅ Hoàn thành
+- **Features**: Game library management, cloud save sync, achievements tracking
+- **Status**: ✅ Completed
 
 ### 🛠️ [BaoTools_1005](https://github.com/DevBaor/BaoTools_1005)
-Bộ công cụ đa năng tiện ích dành cho game thủ và tối ưu hóa hệ thống.
+A versatile utility toolkit tailored for gamers and system optimization.
 - **Tech**: C#, Windows Forms, .NET
-- **Features**: Quản lý file hệ thống, tối ưu hiệu năng chơi game, tự động hóa tác vụ và xử lý script.
-- **Status**: ✅ Hoàn thành
+- **Features**: System file management, gaming performance optimization, task automation, and script handling.
+- **Status**: ✅ Completed
 
 ---
 
@@ -103,17 +103,17 @@ Bộ công cụ đa năng tiện ích dành cho game thủ và tối ưu hóa h�
 
 ---
 
-## 🎯 Các Mục Tiêu Hiện Tại
+## 🎯 Current Goals
 
-- 🚀 Tìm hiểu về Cloud Architecture (AWS, Azure)
-- 📱 Phát triển thêm mobile apps với Flutter/React Native
-- 🤖 Tập trung vào Machine Learning & Data Science
-- 📚 Viết technical blog & share knowledge
-- 🏢 Tìm kiếm cơ hội Full Stack Developer
+- 🚀 Learning Cloud Architecture (AWS, Azure)
+- 📱 Developing more mobile apps with Flutter/React Native
+- 🤖 Focusing on Machine Learning & Data Science
+- 📚 Writing technical blogs & sharing knowledge
+- 🏢 Seeking Full Stack Developer opportunities
 
 ---
 
-## 💬 Liên Hệ & Kết Nối
+## 💬 Let's Connect
 
 <div align="center">
 
@@ -126,21 +126,21 @@ Bộ công cụ đa năng tiện ích dành cho game thủ và tối ưu hóa h�
 
 ---
 
-## 🎓 Giáo Dục & Chứng Chỉ
+## 🎓 Education & Certifications
 
-- 🏫 **Đại học**: Đang học tập - Graduation Thesis 2022-2025
-- 📚 **Kỹ năng**: Full Stack Development, Database Design, AI/ML, Mobile Development
-- 🏆 **Dự án**: 6 dự án hoàn thành có quy mô
+- 🏫 **University**: Currently studying - Graduation Thesis 2022-2025
+- 📚 **Skills**: Full Stack Development, Database Design, AI/ML, Mobile Development
+- 🏆 **Projects**: 6 large-scale completed projects
 
 ---
 
-## 🤝 Cộng Tác & Open Source
+## 🤝 Collaboration & Open Source
 
-Tôi yêu thích cộng tác và đóng góp cho cộng đồng open source. Nếu bạn có ý tưởng hay hoặc cần giúp đỡ, hãy liên hệ!
+I love collaborating and contributing to the open-source community. If you have a cool idea or need help, feel free to reach out!
 
 <div align="center">
 
-📬 **Sẵn sàng để cộng tác trên các dự án thú vị!**
+📬 **Always open to collaborating on exciting projects!**
 
 **Let's build something amazing together! 🚀**
 
