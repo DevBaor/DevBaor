@@ -66,10 +66,10 @@ Hệ thống quản lý phòng khám nha khoa desktop với giao diện Windows 
 - **Features**: Quản lý bệnh nhân, lịch hẹn, dịch vụ, thanh toán
 - **Status**: ✅ Hoàn thành
 
-### 🚌 [Passenger Bus Ticket Management System](https://github.com/DevBaor/Passenger-Bus-Ticket-Management-System)
-Ứng dụng desktop quản lý vé xe khách với hệ thống báo cáo chi tiết.
-- **Tech**: C#, SQL Server, Windows Forms
-- **Features**: Bán vé, quản lý tuyến đường, khách hàng, báo cáo
+### 🎮 [Bao-Manifest](https://github.com/DevBaor/Bao-Manifest)
+Công cụ quản lý thư viện Steam Manifest mạnh mẽ, siêu nhẹ và hiện đại.
+- **Tech**: JavaScript, HTML, TailwindCSS, Electron, Cloudflare Workers
+- **Features**: Trích xuất Denuvo Tickets tự động, API Proxy ẩn danh, đồng bộ thư mục Depotcache, quản lý tải Cloud Redirect.
 - **Status**: ✅ Hoàn thành
 
 ### 💰 [Expense Management App](https://github.com/DevBaor/Expense-Management-App)
@@ -84,10 +84,10 @@ Desktop game launcher với tích hợp Steam, GOG, và AI recommendations.
 - **Features**: Quản lý thư viện game, cloud save sync, achievements tracking
 - **Status**: ✅ Hoàn thành
 
-### 📚 [NoSQL Lab](https://github.com/DevBaor/noSQL_Lab)
-Dự án thực hành MongoDB - Hệ thống quản lý bảo hành sản phẩm.
-- **Tech**: C#, MongoDB, Desktop App
-- **Features**: CRUD operations, aggregation pipelines, backup/restore
+### 🛠️ [BaoTools_1005](https://github.com/DevBaor/BaoTools_1005)
+Bộ công cụ đa năng tiện ích dành cho game thủ và tối ưu hóa hệ thống.
+- **Tech**: C#, Windows Forms, .NET
+- **Features**: Quản lý file hệ thống, tối ưu hiệu năng chơi game, tự động hóa tác vụ và xử lý script.
 - **Status**: ✅ Hoàn thành
 
 ---
